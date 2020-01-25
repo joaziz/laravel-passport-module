@@ -17,7 +17,9 @@ class LaravelPassportRouter
             ],
             function () {
                 Route::post("login", "PassportAuthController@login");
-                Route::post("register", "PassportAuthController@register");
+                if (config("laravel_password.enable_registration")) {
+                    Route::post("register", "PassportAuthController@register");
+                }
                 Route::post("reset-password", "ResetPasswordController@reset");
                 Route::post("forget-password", "ForgetPasswordController@sendResetLinkEmail");
             });
