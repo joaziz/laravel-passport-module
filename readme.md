@@ -1,5 +1,12 @@
 # Laravel Passport Module
 
+<p align="center">
+
+[![Latest Stable Version](https://poser.pugx.org/joeaziz/laravel-passport-module/v/stable)](https://packagist.org/packages/joeaziz/laravel-passport-module)
+[![Total Downloads](https://poser.pugx.org/joeaziz/laravel-passport-module/downloads)](https://packagist.org/packages/joeaziz/laravel-passport-module)
+[![License](https://poser.pugx.org/joeaziz/laravel-passport-module/license)](https://packagist.org/packages/joeaziz/laravel-passport-module)
+
+</p>
 ## Introduction
 
 Laravel Passport Module is an Library bulit on <a href="https://packagist.org/packages/laravel/passport">Laravel Passport</a>
