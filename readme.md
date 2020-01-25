@@ -1,4 +1,4 @@
-#Larave Passport Module
+# Laravel Passport Module
 
 ## Introduction
 
@@ -11,8 +11,8 @@ Laravel Passport is open-sourced software licensed under the MIT license
 
 ## Install
 
-first make sure you install _**laravel passport**_ then run this commend 
-`composer required joeaziz/laravel-passport-module`
+first make sure you install **laravel passport** then run this commend 
+`composer require joeaziz/laravel-passport-module`
 and to edit config publish it using `php artisan vendor:publish --tag=lp-config`
 ## Usage
 
