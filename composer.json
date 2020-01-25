@@ -1,0 +1,17 @@
+{
+    "name": "joeaziz/laravel-passport-module",
+    "description": "auto route and helper for laravel passport",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "yousif aziz",
+            "email": "en.yousif.aziz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "laravel/passport": "^8.2.0"
+    }
+}
+
